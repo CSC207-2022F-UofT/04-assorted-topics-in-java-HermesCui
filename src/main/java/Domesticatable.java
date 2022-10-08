@@ -4,5 +4,7 @@ interface Domesticatable {
      *
      * @return The sound made by this creature.
      **/
+
+
     String sound();
 }
